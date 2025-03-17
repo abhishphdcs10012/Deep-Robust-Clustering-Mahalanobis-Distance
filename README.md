@@ -147,11 +147,5 @@ Please ensure to cite the appropriate sources when using these datasets and resp
 If you use this implementation in your research, please cite:
 
 ```
-@INPROCEEDINGS{9287356,
-  author={Roizman, V. and Jonckheere, M. and Pascal, F.},
-  booktitle={2020 28th European Signal Processing Conference (EUSIPCO)}, 
-  title={Robust Clustering and Outlier Rejection Using the Mahalanobis Distance Distribution}, 
-  year={2021},
-  pages={2448-2452},
-  doi={10.23919/Eusipco47968.2020.9287356}}
+
 ``` 
